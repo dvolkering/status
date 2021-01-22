@@ -1,30 +1,31 @@
 # Change these first
-owner: upptime # Your GitHub username
-repo: upptime # Your GitHub repository name
+owner: dvolkering # Your GitHub username
+repo: status # Your GitHub repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Test for HEAD
-    method: HEAD
-    url: https://www.google.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: Dennis Volkering
+    url: https://dennisvolkering.nl
+  - name: Skape IT
+    url: https://skape-it.nl
+  - name: SVN
+    url: https://svnnaaldwijk.nl
+  - name: Heijdse Vismaatjeskoor
+    url: https://heijdsevismaatjeskoor.nl
+  - name: OrchidsOnline
+    url: https://orchidsonline.nl
+  - name: Skpt
+    url: https://skpt.nl
+  - name: Webmail
+    url: https://webmail.skape-it.nl/
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.skpt.nl
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
+  logoUrl: https://www.skape-it.nl/app/uploads/2018/12/cropped-Skape-IT-Logo_RGB.png
+  name: Skape IT
   introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
   introMessage: This is a sample status page which uses **real-time** data from our [GitHub repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
   navbar:
@@ -32,6 +33,8 @@ status-website:
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
+    - title: Skpt
+      href: https://skpt.nl
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
