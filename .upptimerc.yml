@@ -18,6 +18,8 @@ sites:
     url: https://skpt.nl
   - name: Webmail
     url: https://webmail.skape-it.nl/
+  - name: Janine de Zeeuw
+    url: https://janinedezeeuw.nl
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
