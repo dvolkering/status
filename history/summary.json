@@ -22,19 +22,19 @@
     "url": "https://skape-it.nl",
     "icon": "https://favicons.githubusercontent.com/skape-it.nl",
     "slug": "skape-it",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "99.98%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 3908,
-    "timeDay": 2097,
-    "timeWeek": 3908,
-    "timeMonth": 3908,
-    "timeYear": 3908,
+    "status": "up",
+    "uptime": "99.50%",
+    "uptimeDay": "98.00%",
+    "uptimeWeek": "99.50%",
+    "uptimeMonth": "99.50%",
+    "uptimeYear": "99.50%",
+    "time": 3736,
+    "timeDay": 2401,
+    "timeWeek": 3736,
+    "timeMonth": 3736,
+    "timeYear": 3736,
     "dailyMinutesDown": {
-      "2021-01-26": 0
+      "2021-01-26": 29
     }
   },
   {
