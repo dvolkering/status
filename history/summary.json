@@ -22,9 +22,9 @@
     "url": "https://skape-it.nl",
     "icon": "https://favicons.githubusercontent.com/skape-it.nl",
     "slug": "skape-it",
-    "status": "up",
+    "status": "down",
     "uptime": "99.70%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.98%",
     "uptimeWeek": "99.70%",
     "uptimeMonth": "99.70%",
     "uptimeYear": "99.70%",
@@ -34,6 +34,7 @@
     "timeMonth": 3740,
     "timeYear": 3740,
     "dailyMinutesDown": {
+      "2021-01-29": 0,
       "2021-01-26": 29
     }
   },
