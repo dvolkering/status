@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
-    "time": 1105,
-    "timeDay": 1161,
-    "timeWeek": 1685,
-    "timeMonth": 1195,
-    "timeYear": 1105,
+    "time": 1106,
+    "timeDay": 1124,
+    "timeWeek": 1125,
+    "timeMonth": 1193,
+    "timeYear": 1106,
     "dailyMinutesDown": {
       "2021-02-11": 27
     }
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2320,
-    "timeDay": 2847,
-    "timeWeek": 3021,
-    "timeMonth": 1909,
-    "timeYear": 2320,
+    "time": 2319,
+    "timeDay": 2273,
+    "timeWeek": 2463,
+    "timeMonth": 1920,
+    "timeYear": 2319,
     "dailyMinutesDown": {
       "2021-02-02": 18,
       "2021-01-31": 52,
@@ -53,11 +53,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 1552,
-    "timeDay": 1673,
-    "timeWeek": 2128,
-    "timeMonth": 1605,
-    "timeYear": 1552,
+    "time": 1555,
+    "timeDay": 1792,
+    "timeWeek": 1632,
+    "timeMonth": 1611,
+    "timeYear": 1555,
     "dailyMinutesDown": {}
   },
   {
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1514,
-    "timeDay": 1443,
-    "timeWeek": 2609,
-    "timeMonth": 1487,
-    "timeYear": 1514,
+    "time": 1513,
+    "timeDay": 1431,
+    "timeWeek": 1500,
+    "timeMonth": 1486,
+    "timeYear": 1513,
     "dailyMinutesDown": {
       "2021-02-14": 21
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2203,
-    "timeDay": 2384,
-    "timeWeek": 2678,
-    "timeMonth": 2186,
-    "timeYear": 2203,
+    "time": 2204,
+    "timeDay": 2279,
+    "timeWeek": 2223,
+    "timeMonth": 2189,
+    "timeYear": 2204,
     "dailyMinutesDown": {
       "2021-02-14": 21
     }
@@ -106,17 +106,24 @@
     "icon": "https://favicons.githubusercontent.com/skpt.nl",
     "slug": "skpt",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 751,
-    "timeDay": 855,
-    "timeWeek": 834,
-    "timeMonth": 728,
-    "timeYear": 751,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.79%",
+    "time": 752,
+    "timeDay": 826,
+    "timeWeek": 848,
+    "timeMonth": 731,
+    "timeYear": 752,
+    "dailyMinutesDown": {
+      "2021-02-14": 42,
+      "2021-02-11": 27,
+      "2021-02-02": 18,
+      "2021-01-31": 52,
+      "2021-01-29": 34,
+      "2021-01-26": 29
+    }
   },
   {
     "name": "Webmail",
@@ -124,17 +131,24 @@
     "icon": "https://favicons.githubusercontent.com/webmail.skape-it.nl",
     "slug": "webmail",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.79%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "uptimeYear": "99.79%",
     "time": 772,
-    "timeDay": 798,
-    "timeWeek": 1853,
-    "timeMonth": 917,
+    "timeDay": 820,
+    "timeWeek": 766,
+    "timeMonth": 914,
     "timeYear": 772,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-02-14": 42,
+      "2021-02-11": 27,
+      "2021-02-02": 18,
+      "2021-01-31": 52,
+      "2021-01-29": 34,
+      "2021-01-26": 29
+    }
   },
   {
     "name": "Janine de Zeeuw",
@@ -142,16 +156,23 @@
     "icon": "https://favicons.githubusercontent.com/janinedezeeuw.nl",
     "slug": "janine-de-zeeuw",
     "status": "up",
-    "uptime": "100.00%",
+    "uptime": "99.78%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 631,
-    "timeDay": 825,
-    "timeWeek": 739,
-    "timeMonth": 603,
-    "timeYear": 631,
-    "dailyMinutesDown": {}
+    "uptimeYear": "99.78%",
+    "time": 634,
+    "timeDay": 781,
+    "timeWeek": 774,
+    "timeMonth": 609,
+    "timeYear": 634,
+    "dailyMinutesDown": {
+      "2021-02-14": 42,
+      "2021-02-11": 27,
+      "2021-02-02": 18,
+      "2021-01-31": 52,
+      "2021-01-29": 34,
+      "2021-01-26": 29
+    }
   }
 ]
