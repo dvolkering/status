@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
     "time": 1106,
-    "timeDay": 1124,
-    "timeWeek": 1125,
-    "timeMonth": 1193,
+    "timeDay": 1094,
+    "timeWeek": 1099,
+    "timeMonth": 1190,
     "timeYear": 1106,
     "dailyMinutesDown": {
       "2021-02-11": 27
@@ -30,11 +30,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.86%",
-    "time": 2319,
-    "timeDay": 2273,
-    "timeWeek": 2463,
-    "timeMonth": 1920,
-    "timeYear": 2319,
+    "time": 2316,
+    "timeDay": 2098,
+    "timeWeek": 2450,
+    "timeMonth": 1925,
+    "timeYear": 2316,
     "dailyMinutesDown": {
       "2021-02-02": 18,
       "2021-01-31": 52,
@@ -54,9 +54,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1555,
-    "timeDay": 1792,
-    "timeWeek": 1632,
-    "timeMonth": 1611,
+    "timeDay": 1585,
+    "timeWeek": 1651,
+    "timeMonth": 1610,
     "timeYear": 1555,
     "dailyMinutesDown": {}
   },
@@ -71,11 +71,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 1513,
-    "timeDay": 1431,
-    "timeWeek": 1500,
-    "timeMonth": 1486,
-    "timeYear": 1513,
+    "time": 1511,
+    "timeDay": 1357,
+    "timeWeek": 1484,
+    "timeMonth": 1482,
+    "timeYear": 1511,
     "dailyMinutesDown": {
       "2021-02-14": 21
     }
@@ -91,11 +91,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.98%",
-    "time": 2204,
-    "timeDay": 2279,
-    "timeWeek": 2223,
-    "timeMonth": 2189,
-    "timeYear": 2204,
+    "time": 2205,
+    "timeDay": 2290,
+    "timeWeek": 2219,
+    "timeMonth": 2192,
+    "timeYear": 2205,
     "dailyMinutesDown": {
       "2021-02-14": 21
     }
@@ -106,24 +106,17 @@
     "icon": "https://favicons.githubusercontent.com/skpt.nl",
     "slug": "skpt",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
+    "uptimeYear": "100.00%",
     "time": 752,
-    "timeDay": 826,
-    "timeWeek": 848,
-    "timeMonth": 731,
+    "timeDay": 794,
+    "timeWeek": 829,
+    "timeMonth": 733,
     "timeYear": 752,
-    "dailyMinutesDown": {
-      "2021-02-14": 42,
-      "2021-02-11": 27,
-      "2021-02-02": 18,
-      "2021-01-31": 52,
-      "2021-01-29": 34,
-      "2021-01-26": 29
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Webmail",
@@ -131,24 +124,17 @@
     "icon": "https://favicons.githubusercontent.com/webmail.skape-it.nl",
     "slug": "webmail",
     "status": "up",
-    "uptime": "99.79%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.79%",
-    "time": 772,
-    "timeDay": 820,
-    "timeWeek": 766,
-    "timeMonth": 914,
-    "timeYear": 772,
-    "dailyMinutesDown": {
-      "2021-02-14": 42,
-      "2021-02-11": 27,
-      "2021-02-02": 18,
-      "2021-01-31": 52,
-      "2021-01-29": 34,
-      "2021-01-26": 29
-    }
+    "uptimeYear": "100.00%",
+    "time": 773,
+    "timeDay": 794,
+    "timeWeek": 751,
+    "timeMonth": 910,
+    "timeYear": 773,
+    "dailyMinutesDown": {}
   },
   {
     "name": "Janine de Zeeuw",
@@ -156,23 +142,16 @@
     "icon": "https://favicons.githubusercontent.com/janinedezeeuw.nl",
     "slug": "janine-de-zeeuw",
     "status": "up",
-    "uptime": "99.78%",
+    "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
-    "uptimeYear": "99.78%",
-    "time": 634,
-    "timeDay": 781,
-    "timeWeek": 774,
-    "timeMonth": 609,
-    "timeYear": 634,
-    "dailyMinutesDown": {
-      "2021-02-14": 42,
-      "2021-02-11": 27,
-      "2021-02-02": 18,
-      "2021-01-31": 52,
-      "2021-01-29": 34,
-      "2021-01-26": 29
-    }
+    "uptimeYear": "100.00%",
+    "time": 635,
+    "timeDay": 704,
+    "timeWeek": 742,
+    "timeMonth": 612,
+    "timeYear": 635,
+    "dailyMinutesDown": {}
   }
 ]
