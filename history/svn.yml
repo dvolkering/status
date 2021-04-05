@@ -1,7 +1,7 @@
 url: https://svnnaaldwijk.nl
-status: up
-code: 200
-responseTime: 1373
-lastUpdated: 2021-04-04T23:02:04.425Z
+status: down
+code: 503
+responseTime: 13240
+lastUpdated: 2021-04-05T09:35:10.533Z
 startTime: Fri Jan 22 2021 10:31:51 GMT+0000 (Coordinated Universal Time)
 generator: Upptime <https://github.com/upptime/upptime>
